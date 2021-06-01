@@ -79,7 +79,7 @@ traitlets==4.3.2
 tweepy==3.6.0
 twipy==0.0.10
 Twisted==18.7.0
-urllib3==1.23
+urllib3==1.26.5
 wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.4.0
